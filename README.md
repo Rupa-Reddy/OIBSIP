@@ -2,7 +2,7 @@
 Welcome to the repository for Oasis Infobyte Data Science Internships! This repository is your go-to resource for the tasks assigned during the internship. 
 
 TASK 1: IRIS FLOWER CLASSIFICATION
-        Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. Now assume that you have the measurements of the iris           flowers according to their species, and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
+        Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. Now assume that you have the measurements of the             iris flowers according to their species, and here your task is to train a machine learning model that can learn from the measurements of the iris species and                 classify them.
         Task overview
         1.preprocessing the data
         2.describing the statistics
